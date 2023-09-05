@@ -1,6 +1,6 @@
 # INFO
 
-Hi there! Cirdan here. Thanks for checking out my EPUB versions of WCT's translation of ReZero! Here you'll find EPUBS for each chapter. They now have custom covers so that you can tell which chapter is which from a quick glance! These are temporary files. When Phantaminum finishes the compilation for each volume, I take down the chapter EPUB files from here. His compilations are much better than these, anyway! Find me on the WCT Discord server!
+Hi there! Cirdan here. Thanks for checking out my EPUB versions of WCT's translation of ReZero! Here you'll find EPUBS for each chapter. They now have custom covers so that you can tell which chapter is which from a quick glance! These are temporary files. When Phantaminum finishes the compilation for each volume, I take down the chapter EPUB files from here. His compilations are much better than these, anyway! Find me on the WCT Discord server and Mastodon!
 
 # FAQs
 
